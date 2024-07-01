@@ -1,0 +1,11 @@
+
+š
+java:S4144O"WUpdate this method so that its implementation is not identical to "getName" on line 60.(ú´­÷8¸÷àí†2J$3ffa6e8d-8b93-4815-937a-4af689aede1f
+j
+java:S19483"'Make "roles" transient or serializable.(ÿÎÌ“8¸÷àí†2J$4748a51b-56c1-4d2b-b92e-74e799cf6e48
+N
+java:S19486",Make "boardgames" transient or serializable.(ïá­˜ıÿÿÿÿ8ò™Ôî†2
+M
+java:S19489"+Make "histories" transient or serializable.(äÌÊûÿÿÿÿ8ò™Ôî†2
+½
+java:S6204F"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8½÷àí†2J$a66f1325-7261-4d53-9b46-3f64eba6a6ba
